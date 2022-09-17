@@ -1,3 +1,9 @@
+### armandomiani
+
+I'm a System Engineer with 20-years experience since PHP3 (2002) 😰
+
+Able to perform Backend, DevOps and Architecture roles. Currently based in Krakow (Poland) and looking forward to contribute at any timezone +-5 hours from me :) Reach me out at https://www.linkedin.com/in/armandomiani/.
+
 ### Top technologies
 
 | Dev                                                                                                                                	| Data                                                                                                                                	| Cloud                                                                                                                               	|
